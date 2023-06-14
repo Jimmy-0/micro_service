@@ -1,4 +1,5 @@
-# microservice archi
+# microservice architecture
+![](https://github.com/Jimmy-0/micro_service/blob/main/flowchart.png)
 
 ## gateway service
 - /auth/access.py/login(request): Take HTTP request from the client and validate the token 
